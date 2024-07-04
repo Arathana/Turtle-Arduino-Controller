@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves creating a physical controller using Arduino, Python, and CAD design. The goal was to build an interactive system where the Arduino communicates with a Python-based software through serial communication, utilizing the Turtle library for graphical representation. Additionally, I designed and manufactured a custom Arduino shield to house all the wiring and circuits.
+This project involves creating a physical controller using Arduino, Python, and CAD design. The goal was to build an interactive system where the Arduino communicates with a Python-based software through serial communication to control  a software, which I created using the Turtle library. Additionally, I designed and manufactured a custom Arduino shield to house all the wiring and circuits.
 
 ### Components
 
