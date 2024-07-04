@@ -5,7 +5,7 @@ import serial
 ser = serial.Serial('COM3', 9600, timeout=0.1)  # Replace 'COM3' with your Arduino's port
 
 # Constants for screen boundaries
-SCREEN_WIDTH = 600
+SCREEN_WIDTH = 1000
 SCREEN_HEIGHT = 600
 
 try:
