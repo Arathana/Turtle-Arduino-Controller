@@ -15,7 +15,7 @@ This project involves creating a physical controller using Arduino, Python, and 
 ### Project Structure
 
 - **Arduino Code**: The code to control the Arduino, manage inputs from the physical controller, and send data to the Python software.
-- **Python Code**: The code to create a graphical interface using the Turtle library and read data from the Arduino via serial communication.
+- **Python Code**: The code to create a software using the Turtle library and read data from the Arduino via serial communication.
 - **CAD Files**: Design files for the physical controller created using OnShape.
 
 ### Files
