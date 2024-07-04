@@ -47,8 +47,8 @@ This project involves creating a physical controller using Arduino, Python, and 
 
 1. Connect your physical controller to the Arduino.
 2. Power on the Arduino and ensure it is connected to your computer via USB.
-3. Run the Python script to start the graphical interface.
-4. Interact with the physical controller and observe the graphical representation on the Turtle interface.
+3. Run the Python script to start the software.
+4. Interact with the physical controller and observe the software on the Turtle interface.
 
 ### Contributing
 
